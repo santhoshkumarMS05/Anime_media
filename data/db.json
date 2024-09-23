@@ -1,0 +1,28 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "title": "Goku",
+        "datetime": "September 20, 2024 9:26:50 PM",
+        "body": "Hope of the Universe"
+      },
+      {
+        "id": "2",
+        "title": "Guts",
+        "datetime": "August 05, 2024 11:11:11 AM",
+        "body": "The Black Swordsman"
+      },
+      {
+        "id": "3",
+        "title": "Aizen",
+        "datetime": "August 05, 2024 11:11:11 AM",
+        "body": "Saviour of Soul Society"
+      },
+      {
+        "id": "4",
+        "title": "Thorffin",
+        "datetime": "August 05, 2024 11:11:11 AM",
+        "body": "True Warrior"
+      }
+    ]
+  }
